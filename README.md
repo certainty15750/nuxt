@@ -26,3 +26,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ![Relevance feedback image](https://github.com/certainty15750/nuxt/blob/master/Screenshots/IMG2.png)
 ![Relevance feedback image](https://github.com/certainty15750/nuxt/blob/master/Screenshots/IMG3.png)
 ![Relevance feedback image](https://github.com/certainty15750/nuxt/blob/master/Screenshots/IMG4.png)
+
+### Contact Me
++ Name: Jason Halog
++ Email: certainty15750@yahoo.com
